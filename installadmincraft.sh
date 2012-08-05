@@ -8,5 +8,5 @@ sudo vim /etc/init.d/minecraft
 sudo chmod a+x /etc/init.d/minecraft
 sudo update-rc.d minecraft defaults
 cd AdminCraft
-echo "All done! Type python run.py to start AdminCraft of nohup python run.py & to run in background"
+echo "All done! Type python run.py to start AdminCraft of nohup python run.py & to run in background."
 
